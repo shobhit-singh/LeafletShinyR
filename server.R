@@ -1,7 +1,7 @@
 library(shiny)
 library(leaflet)
 
-function(input, output, session) {
+function(input, output) {
   output$map <- renderLeaflet({
     tryCatch({
       if (input$lat == "" || input$lon == "") {
@@ -16,7 +16,7 @@ function(input, output, session) {
           addTiles() %>%
           setView(lng = input$lon ,
                   lat = input$lat,
-                  zoom = input$zoom) %>%
+                  zoom = 12) %>%
           addMarkers(lat = input$lat,
                      lng = input$lon)
         
