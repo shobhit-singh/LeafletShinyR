@@ -11,22 +11,15 @@ bootstrapPage(
       "lat",
       "Enter Latitude:",
       value = "",
-      width = "50%",
+      width = "70%",
       placeholder = "Latitude"
     ),
     textInput(
       "lon",
       "Enter Longitude:",
       value = "",
-      width = "50%",
+      width = "70%",
       placeholder = "Longitude"
-    ),
-    sliderInput(
-      "zoom",
-      "Zoom:",
-      min = 1,
-      max = 18,
-      value = 12
     )
   )
 )
