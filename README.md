@@ -15,9 +15,9 @@ For more details, please visit these links.
 
 Leaflet for R - [Link](https://rstudio.github.io/leaflet/)
 
-Basic of Leaflet Package in R - [Blog](http://bigdataenthusiast.com/2016/12/12/Leaflet.html)
+Basic of Leaflet Package in R - [Blog](https://shobhit-singh.github.io/BigDataEnthusiast/2016/12/12/Leaflet.html)
 
-Leaflet R Shiny - [Blog](http://bigdataenthusiast.com/2016/12/17/LeafletRShiny.html)
+Leaflet R Shiny - [Blog](https://shobhit-singh.github.io/BigDataEnthusiast/2016/12/17/LeafletRShiny.html)
 
 Thanks, 
 
