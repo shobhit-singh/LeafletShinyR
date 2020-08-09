@@ -8,7 +8,6 @@ This R Shiny App allows you to locate your geographic coordinates on Leaflet int
 
 Check it out Basic R Shiny App of Leaflet - [shinyapps.io/LeafletShinyR](https://shobhitsingh.shinyapps.io/LeafletShinyR/)
 
-![leafletshinyR](http://bigdataenthusiast.com/img/leafletshinyR.JPG)
 ***
 
 For more details, please visit these links.
